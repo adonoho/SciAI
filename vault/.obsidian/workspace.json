@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "c3b0fd06e6ed4026",
+    "id": "1d4851767e9646b1",
     "type": "split",
     "children": [
       {
-        "id": "6c443e29d2039f95",
+        "id": "c387435a2a468c3b",
         "type": "tabs",
         "children": [
           {
-            "id": "b0986ab3f232f557",
+            "id": "6932d02898f65309",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Home"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e9419dacd20570c0",
+    "id": "9355039ed24717bc",
     "type": "split",
     "children": [
       {
-        "id": "3812f58a9e659488",
+        "id": "7cec95ad32954232",
         "type": "tabs",
         "children": [
           {
-            "id": "ec51e33da95d9992",
+            "id": "62ea3c6a9c987f84",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "4212fddefb89f1db",
+            "id": "1236fa1091cffa1d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "a3b5b22a3f593899",
+            "id": "979addefd7894f07",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "7f436bdf9d2ca1e0",
+    "id": "db24bfd0b904b13d",
     "type": "split",
     "children": [
       {
-        "id": "f468613b3172319a",
+        "id": "883d94564fa5408b",
         "type": "tabs",
         "children": [
           {
-            "id": "c52e3c223787e50c",
+            "id": "aea07ee10e7a5a28",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Ideas/Brainstorm.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Brainstorm"
+              "title": "Backlinks for Home"
             }
           },
           {
-            "id": "bf0c241a6a9da67b",
+            "id": "b18ab14f378c266f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Ideas/Brainstorm.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Brainstorm"
+              "title": "Outgoing links from Home"
             }
           },
           {
-            "id": "618f2db91f5b93c5",
+            "id": "758dc09e43afd1bb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +137,7 @@
             }
           },
           {
-            "id": "b7c5e5bd4d1f6246",
+            "id": "4229bb3ef1f5246c",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,18 +151,18 @@
             }
           },
           {
-            "id": "235b5d2e41b73663",
+            "id": "89c82d0ea1062db5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Ideas/Brainstorm.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Brainstorm"
+              "title": "Outline of Home"
             }
           }
         ]
@@ -179,28 +183,8 @@
       "bases:Create new base": false
     }
   },
-  "active": "ec51e33da95d9992",
+  "active": "6932d02898f65309",
   "lastOpenFiles": [
-    "vault/Templates/Person.md",
-    "vault/Templates/Paper Note.md",
-    "vault/Templates/Meeting Note.md",
-    "vault/Resources/Tools & Frameworks.md",
-    "vault/Resources/AI Systems.md",
-    "vault/Ideas/Brainstorm.md",
-    "vault/Research/Research Overview.md",
-    "vault/People/Andrew Donoho.md",
-    "vault/People/Andy Terrel.md",
-    "vault/Meetings/_Meeting Template.md",
-    "vault/Templates",
-    "vault/Resources",
-    "vault/Research",
-    "vault/People",
-    "vault/Mission.md",
-    "vault/Meetings",
-    "vault/Ideas",
-    "vault/Home.md",
-    "vault",
-    "Mission.md",
-    "README.md"
+    "Mission.md"
   ]
 }
